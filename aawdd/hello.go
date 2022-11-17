@@ -1,0 +1,3 @@
+package aawdd
+
+func Hello() {}
